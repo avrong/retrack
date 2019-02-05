@@ -1,6 +1,6 @@
 # ReTrack 
 
-International post tracking numbers generator.
+International post tracking numbers random generator.
 
 ## Usage
 
